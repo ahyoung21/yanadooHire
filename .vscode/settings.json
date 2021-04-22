@@ -1,0 +1,26 @@
+{
+  "editor.renderIndentGuides": false,
+  "window.zoomLevel": 0,
+  "editor.fontSize": 15,
+  "debug.console.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.automationShell.osx": "",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  "terminal.integrated.fontFamily": "D2Coding",
+  "editor.minimap.enabled": false,
+
+  "prettier.printWidth": 80,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "prettier.jsxSingleQuote": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": null,
+  "editor.formatOnSave": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
+  "vsicons.dontShowNewVersionMessage": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
